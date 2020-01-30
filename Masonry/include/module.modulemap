@@ -1,0 +1,3 @@
+module Masonry {
+    umbrella header "Headers/Masonry.h" requires objc export *
+}
